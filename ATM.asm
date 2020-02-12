@@ -1,4 +1,3 @@
-; Assignment 4 (Choudhry-assign4.asm)
 ; Author: Sajid C.
 ; Date: June 2016
 ; Program Description: 
